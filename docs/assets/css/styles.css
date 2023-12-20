@@ -1,0 +1,41 @@
+.btn-primary:hover {
+  transform: translate(0, -3px);
+  transition: transform ease 0.2s;
+}
+
+@media (min-width: 560px) {
+  .github-stats {
+    min-height: 250px;
+    width: 535px;
+    border: 5px solid var(--bs-dark);
+    border-radius: 32px;
+    margin: 0 auto;
+  }
+}
+
+.link-dark:focus, .link-dark:hover {
+  color: rgba(var(--bs-dark-rgb), 70%)!important;
+  -webkit-text-decoration-color: rgba(var(--bs-dark-rgb), 70%)!important;
+  text-decoration-color: rgba(var(--bs-dark-rgb), 70%)!important;
+}
+
+* {
+  scroll-margin-top: 1.5em;
+}
+
+#scrollToTopButton {
+  width: 196px;
+  margin-top: 24px;
+  height: auto;
+  position: fixed;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+  cursor: default;
+  background: rgba(var(--bs-secondary-rgb), 0.95);
+}
+
+#scrollToTopButton.show {
+  opacity: 1;
+  cursor: pointer;
+}
+

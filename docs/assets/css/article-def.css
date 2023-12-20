@@ -1,0 +1,9 @@
+.header-link {
+  opacity: 0.5;
+}
+
+.header-link:hover {
+  opacity: 1;
+  transition: opacity 125ms;
+}
+
