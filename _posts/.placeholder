@@ -1,0 +1,12 @@
+---
+title: TITLE
+description: DESCRIPTION
+author: everdro1d
+date: YYYY-MM-DD HH:MM:SS +/-TTTT
+categories: [TOP_CATEGORY,SUB_CATEGORY]
+tags: [TAG1,TAG2]     # TAG names should always be lowercase
+image:
+    path: /assets/img/posts/POST_IMAGE.jpg
+    alt: ALT_TEXT
+pin: true # ignore this line if you don't want to pin this post
+---
