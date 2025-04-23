@@ -12,7 +12,9 @@ tags: [tiny, kotlin, python]
 ---
 
 ## About
-The following list is an inventory of the tiny-projects repo. It includes the branch link, the release link (where applicable), the date of creation, and the main purpose for creation.
+The following list is an inventory of the tiny-projects repo. It includes the branch link, the release link (where applicable), the date of creation, and the purpose for creation.
+
+---
 
 ### ForTheRepublic
 > 2024-09-29
