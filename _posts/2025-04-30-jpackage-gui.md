@@ -6,7 +6,7 @@ date: 2025-04-30 15:36:00 +/-0600
 categories: [Projects,GUI]
 tags: [java,gui,windows,mac,utility,jpackage]
 image:
-    path: /assets/img/posts/jpkg-mock.jpg
+    path: /assets/img/posts/jpkg-mock.png
     alt: JPackage GUI Mockup
 pin: true
 ---
