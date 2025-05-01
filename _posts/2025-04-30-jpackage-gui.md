@@ -4,7 +4,7 @@ description: JPackage GUI is a GUI Application that makes it easier for java dev
 author: everdro1d
 date: 2025-04-30 15:36:00 +/-0600
 categories: [Projects,GUI]
-tags: [java,gui,windows,mac,utility,jpackage]
+tags: [java,gui,windows,mac,linux,utility,jpackage]
 image:
     path: /assets/img/posts/jpkg-mock.png
     alt: JPackage GUI Mockup
