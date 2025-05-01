@@ -10,6 +10,7 @@ image:
   alt: YouTube Video Downloader Mockup
 pin: true
 ---
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/everdro1d/YouTubeVideoDownloader?style=flat-square&label=Latest%20Release&logo=github&color=blue)
 
 [Download latest release from GitHub ->](https://github.com/everdro1d/YouTubeVideoDownloader/releases/latest)
 
