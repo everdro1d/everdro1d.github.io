@@ -11,7 +11,6 @@ image:
 pin: true
 ---
 
-# JPackage GUI
 [Download from GitHub ->](https://github.com/everdro1d/jpackage-gui/releases/latest)
 
 ---
