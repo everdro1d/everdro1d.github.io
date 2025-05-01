@@ -12,8 +12,6 @@ pin: true
 ---
 
 # JPackage GUI
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/everdro1d/jpackage-gui?style=flat-square&label=Latest%20Release&logo=github&color=blue)
-
 [Download from GitHub ->](https://github.com/everdro1d/jpackage-gui/releases/latest)
 
 ---
