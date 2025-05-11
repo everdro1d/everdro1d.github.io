@@ -24,15 +24,17 @@ pin: false
 
 ### Prerequisites
 
-- Java 21 or higher
-- LocaleManager requires org.json library to read & write locale files.
-- Swing GUI package uses flatlaf library (min: 3.4). Some things will definitely break without it, but components and the like should still work. It will be hit & miss, try it if you like.
+- Java 21+
+- org.json library (min: 20240303)
+  - LocaleManager requires it to read & write locale files.
+- flatlaf library (min: 3.4)
+  - Some Swing GUI things will definitely break without it, but general things like smaller components or util methods should still work. Others will be hit & miss, try it if you like.
 
 ### Installation
 
-Add the JAR file as a dependency in your project. If you use LocaleManager, you will also need to add the org.json library, and if you use any of the Swing GUI stuff, you will need to add the flatlaf library.
+Add the JAR file as a dependency in your project. If you use LocaleManager, you will also need to add the org.json library, and if you use the Swing GUI stuff, you should consider adding the flatlaf library to be safe.
 
-I haven't made a release jar yet, but you can clone the repository and build it from source. To build successfully, you will need the pre-requisites mentioned above, and a Java 21+ JDK.
+I haven't made a release jar because of how frequently I update this library, but you can clone the repository and build it from source. To build successfully, you will need the pre-requisites mentioned above, and a Java 21+ JDK. I've compiled a build chain in intellij that should work well, run `W7: Create Artifacts` for Windows (*needs powershell*), and `7: Create Artifacts` for Unix-based systems (MacOS and Linux).
 
 ## Usage
 
